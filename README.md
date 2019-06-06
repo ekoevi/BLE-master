@@ -1,7 +1,7 @@
 1. Clone the repo and do an apt update  
 `sudo apt-get update`  
 `sudo apt-get install git -y`   
-`git clone https://github.com/ekoevi/BLE.git`  
+`git clone https://github.com/ekoevi/BLE-master.git`  
 
 1. Install dependancies  
 `sudo apt-get install python3-pip bluetooth bluez-tools bluez-test-scripts bluez-hcidump python-bluez -y`  
